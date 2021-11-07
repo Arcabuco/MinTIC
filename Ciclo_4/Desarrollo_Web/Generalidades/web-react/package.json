@@ -1,12 +1,11 @@
 {
-  "name": "base-react",
+  "name": "web-react",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.15.0",
     "@testing-library/react": "^11.2.7",
     "@testing-library/user-event": "^12.8.3",
-    "node-fetch": "^2.3.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-scripts": "4.0.3",
@@ -35,15 +34,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
-  "main": "index.js",
-  "author": "Mauricio S. Herrera Palacio",
-  "license": "ISC",
-  "keywords": [
-    "Fundamentos"
-  ],
-  "devDependencies": {
-    "babel-core": "^6.26.3"
   }
 }

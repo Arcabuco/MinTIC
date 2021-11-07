@@ -8,7 +8,7 @@ console.log("Holiwi")
 //arr.map(item => console.log(item))
 
 const fetch = require("node-fetch")
-var response = fetch("https://api.github.com/amontealegrer")
+var response = fetch("https://api.github.com/users/amontealegrer")
     .then(response => response.json())
     .then(response => console.log(response))
 
